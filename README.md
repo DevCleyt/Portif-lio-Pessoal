@@ -1,21 +1,37 @@
 # 🌐 Portfólio Pessoal
 
-Este é o meu portfólio online, desenvolvido em **HTML5 e CSS3**.  
-Aqui apresento meus projetos, trajetória acadêmica e formas de contato.
+Portfólio pessoal desenvolvido para apresentar projetos, formação e experiência em tecnologia.
 
-## 🚀 Tecnologias
+> **Status:** projeto legado de Front-end. Meu foco profissional atual está direcionado para **Python, Dados, Automação e IA**.
+
+## 🛠️ Tecnologias
+
 - HTML5
 - CSS3
+- JavaScript
 
-## 📸 Demonstração
-<img width="1303" height="501" alt="image" src="https://github.com/user-attachments/assets/0ce86f7c-7b82-4a66-a829-fad0eb74dddb" />
+## 📌 Sobre o projeto
 
+Este projeto representa uma etapa anterior da minha trajetória em desenvolvimento web e permanece no GitHub como parte do meu histórico técnico.
 
-## 🔗 Acesse
-[👉 Clique aqui para visualizar meu portfólio](https://seu-link-do-github-pages-ou-vercel)
+Os projetos mais recentes e alinhados ao meu objetivo profissional estão destacados no [perfil principal](https://github.com/DevCleyt).
 
-## 📚 Sobre mim
-- 🎓 Formação: Análise e Desenvolvimento de Sistemas
-- 📘 Pós-graduação: Fullstack Development
-- 💻 Estudando: React, TypeScript e Desenvolvimento Front-end
-- 🚀 Buscando minha primeira oportunidade como Desenvolvedor Front-end
+## 🎓 Formação
+
+- Tecnólogo em Análise e Desenvolvimento de Sistemas
+
+## 🚀 Foco atual
+
+- Python
+- Análise de Dados
+- SQL
+- Automação de Processos
+- Inteligência Artificial
+- APIs
+- Cloud / AWS
+
+## 👨‍💻 Autor
+
+**Cleyton Pereira dos Santos**
+
+[GitHub](https://github.com/DevCleyt) · [LinkedIn](https://www.linkedin.com/in/cleyton-pereira-santos-1b869a190/)
